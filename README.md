@@ -1,2 +1,2 @@
-# Flow Blog
+# Flow の Blog
 
